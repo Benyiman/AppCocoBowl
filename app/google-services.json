@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "468585941088",
+    "firebase_url": "https://desafio2-46282-default-rtdb.firebaseio.com",
+    "project_id": "desafio2-46282",
+    "storage_bucket": "desafio2-46282.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468585941088:android:2264d0364718d4b35cdb05",
+        "android_client_info": {
+          "package_name": "cl.isisur.appcocobowl"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lsa4YQz_U__OYUPibmI8RCtronqFDzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468585941088:android:893223832f70687a5cdb05",
+        "android_client_info": {
+          "package_name": "cl.isisur.cocobolt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lsa4YQz_U__OYUPibmI8RCtronqFDzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:468585941088:android:e54a62b83cb0034f5cdb05",
+        "android_client_info": {
+          "package_name": "cl.isisur.desafio2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6lsa4YQz_U__OYUPibmI8RCtronqFDzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

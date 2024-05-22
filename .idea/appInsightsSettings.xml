@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="cl.isisur.appcocobowl" />
+                  <option name="mobileSdkAppId" value="1:468585941088:android:2264d0364718d4b35cdb05" />
+                  <option name="projectId" value="desafio2-46282" />
+                  <option name="projectNumber" value="468585941088" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
